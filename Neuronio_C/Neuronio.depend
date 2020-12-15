@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607902424 source:c:\users\victo\desktop\neuronio\main.c
+	<stdio.h>
+	<stdlib.h>
+
